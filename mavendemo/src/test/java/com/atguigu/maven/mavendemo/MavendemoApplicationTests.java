@@ -11,6 +11,7 @@ class MavendemoApplicationTests {
         Hello hello = new Hello();
         String maven = hello.sayHello("maven");
         System.out.println(maven);
+
     }
 
 }
